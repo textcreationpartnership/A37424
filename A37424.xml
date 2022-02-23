@@ -1,0 +1,1315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A satyr against satyrs, or, St. Peter's vision transubstantiated by R.D.</title>
+            <author>R. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37424</idno>
+            <idno type="STC">Wing D83</idno>
+            <idno type="STC">ESTC R20849</idno>
+            <idno type="EEBO-CITATION">12225785</idno>
+            <idno type="OCLC">ocm 12225785</idno>
+            <idno type="VID">56493</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56493)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 913:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A satyr against satyrs, or, St. Peter's vision transubstantiated by R.D.</title>
+                  <author>R. D.</author>
+               </titleStmt>
+               <extent>[4], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Richard Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Advertisement: p. [3]</note>
+                  <note>Attributed to R.D. cf. NUC pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Satire, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56493:1" rendition="simple:additions"/>
+            <pb facs="tcp:56493:1" rendition="simple:additions"/>
+            <p>A SATYR AGAINST SATYRS: OR, S<hi rend="sup">t.</hi> Peter's Viſion TRANSUBSTANTIATED.</p>
+            <q>Semper ego auditor tantum nunquamne reponam Vexatus toties?
+<bibl>
+                  <hi>Juv. lib. 1. Sat. 1.</hi>
+               </bibl>
+            </q>
+            <p>By <hi>R. D.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold by <hi>Richard Janeway</hi> in <hi>Queens-head Alley</hi> in <hi>Pater-noſter Row.</hi> 1680.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:56493:2"/>
+            <pb facs="tcp:56493:2"/>
+            <head>That the Reader may not turn over a Page empty of Lines, no more than the Jeſuites run over a day void of Plots, 'twas thought no great piece of Treaſon or Hereſie to inſert the following <hi>ADVERTISEMENT.</hi>
+            </head>
+            <lg>
+               <l>WHereas <hi>N. T's good-cauſe</hi> Intelligence,</l>
+               <l>That piece of Truth, Wit, Honeſty and Sence,</l>
+               <l>Does not each day come out; How can't I pray?</l>
+               <l>The Devil! we can't invent a Sheet a day!</l>
+               <l>This in its ſtead then i'th' Popes name pronounces,</l>
+               <l>Joys to all Catholick ſouls by <hi>Pounds</hi> and <hi>Ounces:</hi>
+               </l>
+               <l>Set <hi>Purgatory</hi>'s doors wide ope' I ſay;</l>
+               <l>Let th' half-broil'd <hi>Martyrs</hi> caper thence away.</l>
+               <l>We vote this a perpetual <hi>Holiday:</hi>
+               </l>
+               <l>The Devil has gain'd an Inch, and our cauſe further'd,</l>
+               <l>
+                  <hi>Catch-Jeſuits</hi> degraded; <hi>Arnold</hi> murther'd.</l>
+               <l>
+                  <hi>Calig'la</hi>'s wiſh now! had all th' Hereticks</l>
+               <l>Summ'd up in <hi>Arnold</hi> all their croſs-grain'd Necks;</l>
+               <l>It had been a brave Job; They'd gone to howl,</l>
+               <l>And pray e're this for <hi>Father Evan</hi>'s ſoul.</l>
+               <l>Howe're, we gain'd a point by this; and ſhew</l>
+               <l>Beſides, had we the Game, what we would doe.</l>
+               <l>Moreover, our Mask't <hi>Tories</hi> think it good</l>
+               <l>To ſeal the <hi>Prorogation</hi> thus with Blood.</l>
+               <l>But what if Heaven ſhould <hi>Godfrey this,</hi> and vote</l>
+               <l>The <hi>Plot</hi> to bleed once more in <hi>Arnolds</hi> throat?</l>
+               <l>Devils forbid! but can't <hi>N. T.</hi> foretell't,</l>
+               <l>As he the <hi>Boyiſh</hi> Project had foreſmel't?</l>
+               <l>'Tis <hi>Iriſh</hi> this to him, or he as yet</l>
+               <l>Thinks it a Hereſie to publiſh it.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Reader for Farewell, I thee advertiſe</hi>
+               </l>
+               <l>
+                  <hi>Now thou mayſt ſee (if th' haſt not loſt thine eyes)</hi>
+               </l>
+               <l>Advertiſements <hi>thou may'ſt in Satyrs buy,</hi>
+               </l>
+               <l>
+                  <hi>As well as in a</hi> Mercury Week-Lie.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:56493:3"/>
+            <pb n="1" facs="tcp:56493:3"/>
+            <head>A SATYR AGAINST SATYRS.</head>
+            <lg>
+               <l>TOyl'd with conſidering how the world went round,</l>
+               <l>I lay'd me down to reſt me on the ground;</l>
+               <l>And my tyr'd thoughts retreating, dwell upon</l>
+               <l>Some Scripture place, as <hi>Peter's</hi> Viſion:</l>
+               <l>Then deeply pondering on that wond'rous Scean,</l>
+               <l>That maſſie ſheet thwackt full with beaſts unclean,</l>
+               <l>And how that, that from Heaven ſhould come down;</l>
+               <l>And then methoughts transform'd into this Town:</l>
+               <l>Sleep ſlily crept in, ſtole me from my ſelf,</l>
+               <l>And then I dream'd as faſt as any Elf.</l>
+               <l>Methoughts the ground I lay upon did dance</l>
+               <l>Jiggs, like the butter-hamm'd <hi>Tom-Thumbs</hi> of <hi>France,</hi>
+               </l>
+               <l>And ſuch commotions did her bowells tear;</l>
+               <l>As though the Jeſuites ſate on Conſult there;</l>
+               <l>Then ſwelling like <hi>Pope Joan,</hi> ſhe roar'd aloud</l>
+               <l>As <hi>Dunſtan's</hi> Devil, or Thunder in a cloud:</l>
+               <l>When ſtreight ſhe opens; and from thence aſcends</l>
+               <l>A Cole-black Sheet with fire-brands at its ends,</l>
+               <l>Brim-fill'd with monſters of ſuch ſorts and hue,</l>
+               <l>Such as our pregnant <hi>Africk</hi> never knew.</l>
+               <l>
+                  <pb n="2" facs="tcp:56493:4"/>The horrid Pageant nigh my ſight did dwell;</l>
+               <l>Methought it a clear proſpect of all Hell.</l>
+               <l>There were the Devils that had ſown theſe tares,</l>
+               <l>As buſie as Graſiers in our Countrey Fairs,</l>
+               <l>To ſort their beaſts into ſome order'd pairs.</l>
+               <l>But here they'r puzled quite: had <hi>Noah</hi> theſe;</l>
+               <l>Not all his wit had e're found out their ſeize;</l>
+               <l>His Ark had been a <hi>Babel</hi> on the ſeas.</l>
+               <l>If er'e there was a rope of ſand 'twas thus;</l>
+               <l>Such different Devils hoop'd within a truſs.</l>
+               <l>Or that I may the wonder more deſcribe,</l>
+               <l>Such higly villains twiſted in a tribe.</l>
+               <l>In the ſheet's front (that I'd almoſt forgot)</l>
+               <l>There was two <hi>P</hi>'s for Popery and for Plot,</l>
+               <l>Written ſo fair, that he that runs may read,</l>
+               <l>And then, when hundred thouſand Saints did bleed.</l>
+            </lg>
+            <lg>
+               <l>Well now one Devill full of rage and ſweat</l>
+               <l>Cries unto me, Ariſe, man, come and eat;</l>
+               <l>He ſpoke ſo bold, I thought him firſt the Prieſt,</l>
+               <l>That came to offer me the Euchariſt.</l>
+               <l>His offer modeſtly I did decline.</l>
+               <l>Thought I the whelp has drunk up all the Wine,</l>
+               <l>Now ſhams me off with Bread; then he will yeaul</l>
+               <l>Prophanely; Thou eat'ſt Chriſt up, blood and all.</l>
+               <l>A pretty thing, could it be underſtood,</l>
+               <l>How that our Catholick Jaws could eat up blood</l>
+               <l>And 'tis a thing as pretty as the firſt,</l>
+               <l>How eating can thus take away man's thirſt.</l>
+               <l>Well but let's bar all this; it will not doe;</l>
+               <l>My thirſty throat would prove my faith untrue,</l>
+               <l>Unleſs by ſome tranſubſtantiating caſt,</l>
+               <l>They'd quench my thirſt, as well as break my faſt.</l>
+               <l>
+                  <pb n="3" facs="tcp:56493:4"/>But ſtill he preſs'd me on: then I did cry,</l>
+               <l>Let's ſee the wine, and then perhaps I'le try.</l>
+               <l>With that a triple-headed <hi>Cerberus</hi>
+               </l>
+               <l>Starts up with Cup in's hand, and then barks thus:</l>
+               <l>Why you vile Heretick, you good for nought,</l>
+               <l>Sup up this liquor! 'tis a Catholick draught.</l>
+               <l>Then he held out a Goblet crown'd with blood,</l>
+               <l>The ſad remains of that moſt innocent flood,</l>
+               <l>They ſent through <hi>France</hi> in many hundred rills,</l>
+               <l>And broach'd at the feet of the <hi>Alpine</hi> hills.</l>
+               <l>When he perceiv'd me ſcar'd with ſuch a ſight,</l>
+               <l>He holds me a Cake as round as any quoit;</l>
+               <l>'Twas ſuch as <hi>Jugg</hi> and <hi>Ciſely</hi> bak't laſt night.</l>
+               <l>And when well daub'd with th' fingers of his Prieſt</l>
+               <l>He'd damn me to th' belief, it was my Chriſt.</l>
+               <l>But being a Heretick; for I had wit,</l>
+               <l>I did demand his argument for it.</l>
+               <l>Yes preſently, repli'd my Gaffar Pope;</l>
+               <l>With that brings out a faggot and a rope:</l>
+               <l>Canſt thou confute theſe reaſons, or ſuppreſs?</l>
+               <l>
+                  <hi>They are unanſwerable I confeſs.</hi>
+               </l>
+               <l>When Hereticks out-diſpute, yet this has croſt'um</l>
+               <l>In their deſigns, this <hi>ratio ultima noſtrûm.</hi>
+               </l>
+               <l>An <hi>honeſt</hi> Fryar ſteps up by and by,</l>
+               <l>(Suppoſe I ſometimes ſpeak by Irony)</l>
+               <l>Who keeping Crotchet time, a while with's breech,</l>
+               <l>He whindles out a <hi>Gavan</hi>'s dying ſpeech.</l>
+               <l>He tells you modeſtly, he hates a whore,</l>
+               <l>Though he has lain with ſix but juſt afore.</l>
+               <l>And knows not what means that Adultery,</l>
+               <l>Though ſixteen Cuckolds wear his Livery.</l>
+               <l>And as for Treaſon vows his innocence:</l>
+               <l>Though then thinks how t' aſſaſſinate ſome Prince;</l>
+               <l>
+                  <pb n="4" facs="tcp:56493:5"/>And having lick'd his mouth with Holy-watter,</l>
+               <l>He then dares ſwear and re-reſwear to th' matter.</l>
+               <l>Then he declares how Father <hi>Dominick</hi>
+               </l>
+               <l>Made once a Dung-fork a good Catholick,</l>
+               <l>And pluck't a Devill by's toes (O ſtrange to think!)</l>
+               <l>Out of a Mad-man till he made him ſtink;</l>
+               <l>What is't he and his Girdle could not doe?</l>
+               <l>Convert Dogs, Cats, Rats, Owls and Tigers too,</l>
+               <l>Bears, Wolves and Maſtiffs: pugh! and what is this?</l>
+               <l>He cramm'd his Doctrines in the Gills of Fiſh.</l>
+               <l>
+                  <note place="margin">All as true as the Popes Go<g ref="char:EOLhyphen"/>ſpell.</note>One Sermon and the Girdle in a trice</l>
+               <l>Turn'd Papiſts ſhoals of Herrings and Crablice.</l>
+               <l>Strange! but the good man ſwears that all is truth;</l>
+               <l>And is not he think you, a pretty Youth?</l>
+               <l>Truely I almoſt bring my faith unto't,</l>
+               <l>When e're I ſee my Fryar and his rout:</l>
+               <l>And they're the Converts of whom whisker told,</l>
+               <l>Only they paſſed Tranformation mould.</l>
+               <l>He tells you on of zealous Brethren three,</l>
+               <l>Whom th' Devil had ſworn ſo in iniquity;</l>
+               <l>Who on one Fryday night had greater maw</l>
+               <l>To fill their guts, than to fulfill their Law,</l>
+               <l>Pray'd in a trice a ruſty rib of Bacon</l>
+               <l>To a Joul of Salmond or a rump of Capon.</l>
+               <l>And pilling th' bone as bare as any ſtick;</l>
+               <l>They would not give the Devil his own to pick:</l>
+               <l>But did me controvert it by and by</l>
+               <l>To the forerib of good St. <hi>Anthony</hi>
+               </l>
+               <l>There's a tranſubſtantiating trick for you:</l>
+               <l>That fill'd their, guts and purſe. <hi>And that is true.</hi>
+               </l>
+               <l>Then one does whiſper t'him in the ear thus, <hi>Will,</hi>
+               </l>
+               <l>But thou know'ſt 'twas a rib of Bacon ſtill.</l>
+               <l>
+                  <pb n="5" facs="tcp:56493:5"/>Quoth I, that Papiſt ſpeaks the truth to th' full.</l>
+               <l>That I maintain's a Popiſh miracle.</l>
+            </lg>
+            <lg>
+               <l>But now prick tip your Catholick ears and quake,</l>
+               <l>For all this while was I in a miſtake.</l>
+               <l>An obſtinate Heretick I did remain,</l>
+               <l>And muſt bear pennance for't; if I've no coyn<g ref="char:punc">▪</g>
+               </l>
+               <l>'T ſeems the good natur'd Devil did invite</l>
+               <l>Me of his creatures to partake that night:</l>
+               <l>And 'twas no call to th' ſeventh Sacrament,</l>
+               <l>He himſelf knew not what five of them meant;</l>
+               <l>Save that fine Extream Unction, for that</l>
+               <l>He knew's the Droppings of the Belly fat.</l>
+               <l>But when the thing I underſtood, alas,</l>
+               <l>Better then ſeveral Bald-pates do their Maſs;</l>
+               <l>I plainly ſaid; No, firſt give Bread and Cheeſe,</l>
+               <l>Away Sir, with your Toads and <hi>Soland</hi> Geeſe.</l>
+               <l>I cannot feed my guts with Barnacles,</l>
+               <l>No more than faith on Popiſh Miracles.</l>
+               <l>Sayes then th' half-angry Devil, Had but you</l>
+               <l>My flock expos'd unto your fuller view,</l>
+               <l>You could not but fall on, they are ſo rare,</l>
+               <l>Nothing can match them out in <hi>Bart'l'mew-fair,</hi>
+               </l>
+               <l>That I believe, quoth I, and they will doe</l>
+               <l>Thy work, as <hi>Barth'lomew</hi> Jack-puddings too.</l>
+               <l>But their officious Grandſire all this while</l>
+               <l>Was bringing of them into rank and file,</l>
+               <l>And that but ſorrily upon my word;</l>
+               <l>Such order as confuſion could afford.</l>
+               <l>
+                  <note place="margin">The firſt Babyloniſh legion.</note>There firſt appears (what yet no uſh'ring thunder?)</l>
+               <l>The <hi>Gog Magogs</hi> of ſtupifying wonder.</l>
+               <l>Th' old ſons of <hi>Anakim</hi> reviv'd again.</l>
+               <l>Perverted <hi>Levi'</hi> tribe on <hi>Shalem</hi>'s plain;</l>
+               <l>
+                  <pb n="6" facs="tcp:56493:6"/>Where th' Father of their Order firſt did dye</l>
+               <l>His perjur'd hands in trait'rous cruely:</l>
+               <l>And onely in that act each monſtrous limb</l>
+               <l>Of his, does imitate and follow him.</l>
+               <l>Still in a row like <hi>Iſrael</hi>'s golden calves</l>
+               <l>They march'd; or <hi>Quixot's</hi> Roſary of Knaves.</l>
+               <l>With hair ſo holy-water'd that you'd think</l>
+               <l>Their heads had the Monopoly of ſtink.</l>
+               <l>'T would drive the Devil to run without his ſhoes:</l>
+               <l>If <hi>Dunſtan</hi> has not quite ſear'd up his noſe,</l>
+               <l>With face in Princum, and with looks devout;</l>
+               <l>Like ſober Nuns at a Confeſſion bout:</l>
+               <l>Whence ſtore of Holineſs <hi>ſubinde</hi> ſtarts;</l>
+               <l>And well 'twas there; for none was in their hearts.</l>
+               <l>I'th' brain Infallibility did ſit,</l>
+               <l>And wiſely, to ſupply the place of wit.</l>
+               <l>Supremacy did on their brows reſide:</l>
+               <l>Hud's bud, but 'twas a little pockifi'd,</l>
+               <l>Being ſuch a neighbour to their ſnivling noſe,</l>
+               <l>Which ran as faſt as honeſt <hi>Ovid</hi>'s proſe.</l>
+               <l>Well, by their wit, beards, honeſty you'd then</l>
+               <l>Gueſs them a Court of voting Aldermen.</l>
+               <l>I talk of beards, good <hi>Cambden,</hi> canſt thou ſwear</l>
+               <l>What kind of ſtuff the moſſie <hi>Dru'ds</hi> did wear,</l>
+               <l>When they taught Gravity unto the <hi>Welſh?</hi>
+               </l>
+               <l>I know not what to, to compare them elſe;</l>
+               <l>It was ſo old, I thought 'twas <hi>Peter's</hi> hair,</l>
+               <l>And came to'um by ſucceſſion with the chair.</l>
+               <l>But let'um go as they are; and let's be curt,</l>
+               <l>I'le foul no more my fingers with ſuch dirt.</l>
+               <l>I can no further now my beaſts diſſect;</l>
+               <l>Already they confound my intellect.</l>
+               <l>
+                  <pb n="7" facs="tcp:56493:6"/>And to deſcribe'um right from head to foot,</l>
+               <l>I doe defie the Devil himſelf to do't.</l>
+            </lg>
+            <lg>
+               <l>But there ſtood one, 'twould do you good to ſee</l>
+               <l>Reduc'd by's Miſs to an Anatomy.</l>
+               <l>His Catholick bones out of his skin did grow,</l>
+               <l>Ten thouſand faſtings had not bar'd him ſo:</l>
+               <l>As lean as any rake in breaſt and rump;</l>
+               <l>Though all his bags with <hi>Europe's</hi> wealth was plump.</l>
+               <l>You would imagine him one that was ſent</l>
+               <l>To teach the Devil how to keep his Lent.</l>
+               <l>Or elſe employ'd by hags out of their Cell</l>
+               <l>To treat with Fiends, and make a league with hell.</l>
+               <l>
+                  <note place="margin">Pope <hi>Sixtus.</hi>
+                  </note>And next to him there pranc'd that raging boar,</l>
+               <l>Whom neither war can tame, nor yet a Whore;</l>
+               <l>Whoſe vaſt deſigns o're <hi>Europe</hi> all does ſtride,</l>
+               <l>He makes poor Princes Drudges to his pride.</l>
+               <l>He Goſpellizes with his glittering Sword;</l>
+               <l>But 'tis not that o'th' Spirit, nor o'th' Word:</l>
+               <l>But that by which the <hi>Turkiſh</hi> Monarchs doe</l>
+               <l>Advance their Conqueſts and Religion too.</l>
+               <l>But having bluſter'd for a while he fell;</l>
+               <l>And vengeance kick'd him to be tam'd in Hell.</l>
+               <l>The third ſate there with a reforming brow,</l>
+               <l>Who ſays that they hate Reformation ſo?</l>
+               <l>I ſay 'tis falſe, for he the work begins;</l>
+               <l>
+                  <note place="margin">The firſt ſtep of Popiſh re<g ref="char:EOLhyphen"/>formation.</note>And firſt he qualifies the rate of ſins.</l>
+               <l>For well he knows that things as ſweet as honey;</l>
+               <l>When cheap, they are for every bodies money;</l>
+               <l>And he with others has this pollitick fetch,</l>
+               <l>To live upon the poor as well as rich.</l>
+               <l>Sodomy therefore half a Crown before</l>
+               <l>Is now a ſingle Teſter, and no more.</l>
+               <l>
+                  <pb n="8" facs="tcp:56493:7"/>
+                  <note place="margin">Good pen<g ref="char:EOLhyphen"/>niworths my lads.</note>Come in ye ſmall-game ſinners, wenching ſhall go</l>
+               <l>For a good ſober Two-pence; and well ſo.</l>
+               <l>
+                  <hi>Item</hi> Adultery ſuffers an Eclipſe,</l>
+               <l>Brought down from ſixteen ſhillings unto ſix.</l>
+               <l>But for the eating Eggs in Lent or Fleſh</l>
+               <l>Five hundred pound's great mercy; nothing leſs;</l>
+               <l>Nay 'tis well, if the good natur'd Pope</l>
+               <l>Let's them eſcape the Faggot and the Rope.</l>
+               <l>For there's no puniſhment that is ſo pat</l>
+               <l>For a ſin ſo unpardonable as that.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The ſe<g ref="char:EOLhyphen"/>cond ſtep of refor<g ref="char:EOLhyphen"/>mation.</note>Next with his Senate of Whores he does adviſe,</l>
+               <l>How that they wear their Coats above their thighs:</l>
+               <l>For he'l ſubdue, in ſpight of D<hi rend="sup">r</hi>. <hi>Oats,</hi>
+               </l>
+               <l>That Northern hereſie of long, long Coats:</l>
+               <l>And for the Centuries that are to come,</l>
+               <l>Thinks it more Catholick to bare the bum.</l>
+               <l>
+                  <note place="margin">The third and laſt weighty catholick branch of, reformati<g ref="char:EOLhyphen"/>on.</note>That's all the Reformation heard of ſince:</l>
+               <l>Except th' enlarging of the <hi>Peter-Pence.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>With them and Reformation I'd have done,</l>
+               <l>But that I cannot o'relook that <hi>Madam Dun,</hi>
+               </l>
+               <l>That Spawner of young Popes, that does advance</l>
+               <l>
+                  <note place="margin">Pope <hi>Joan.</hi>
+                  </note>The Chair's ſucceſſion by Inheritance.</l>
+               <l>The Whore of <hi>Babilon</hi> it'h litteral ſenſe,</l>
+               <l>Without a Metaphor or ſhifting Tenſe;</l>
+               <l>Who ſtood with a Child hanging by the half,</l>
+               <l>Juſt as a-croſs a Horſe an <hi>Eſſex</hi> Calf.</l>
+               <l>Much din about her was, that ſhe defil'd</l>
+               <l>The reverence of the Popedom with her child.</l>
+               <l>Some for a Midwife right bid run to Hell;</l>
+               <l>Others cry'd <hi>Celier,</hi> and all would be well,</l>
+               <l>Say they, for ſhe can ſteal the Baſtard o're</l>
+               <l>The ſeas, and lay it at a Proteſtant's door.</l>
+               <l>
+                  <pb n="9" facs="tcp:56493:7"/>Excuſe her, anſwer'd I, 't has been her fate,</l>
+               <l>Her ſelf to grow big of a Brat of late:</l>
+               <l>Whereof miſcarrying by a vile miſchance,</l>
+               <l>She has lain in at <hi>Newgate</hi> ever ſince;</l>
+               <l>Say they we ſha'nt have t'other Pope <hi>Joan</hi> again;</l>
+               <l>
+                  <hi>Tiburn</hi> we fear will intercept the claim.</l>
+               <l>But what ſhall now our Popeſs do? poor Whore!</l>
+               <l>Why get aſtride the Infallible Stool once more:</l>
+               <l>St. <hi>Peters</hi> holy Chair being once got in,</l>
+               <l>Blots out all guilt, and expiates the ſin.</l>
+               <l>That Sacred Catholick piece of rotten wood</l>
+               <l>Has vertue enough to make the Devil good.</l>
+               <l>And ſhould he there get up with all his evil,</l>
+               <l>He'd certainly be an infallible Devil.</l>
+               <l>But what of Popeling too? let him alone,</l>
+               <l>That was born Burgeſs to the Triple Crown.</l>
+               <l>Sure to do well this baſtard cannot miſs,</l>
+               <l>'Tis heir apparent, not preſumtive this.</l>
+               <l>Coyn'd in the Whore of <hi>Babilon</hi>'s own mint,</l>
+               <l>
+                  <hi>'Tis a true Son o'th' Church, or th' Devil's in't.</hi>
+               </l>
+               <l>Supremacy in Querp, begot you ſee</l>
+               <l>And born too in Infallibility.</l>
+               <l>And now one of them croaks: Pope <hi>Joan</hi>-is gone.</l>
+               <l>But one replies another Pope comes on,</l>
+               <l>Fill'd full with <hi>Cardinal vertues.</hi> We have choſen</l>
+               <l>Her Succeſſour, the Devils right-hand Couſin,</l>
+               <l>Who ſtrings his ſins like Beads by Bakers dozen.</l>
+               <l>But where is <hi>Gadbury,</hi> can't he foretell</l>
+               <l>Whether he'l prove the very Imp of Hell,</l>
+               <l>And a right qualified Pope? which does prevail</l>
+               <l>
+                  <hi>Leo</hi> or <hi>Scorpio</hi> or the <hi>Dragons</hi> tail;</l>
+               <l>Or elſe that curſed Plannet call'd the Goal?</l>
+               <l>
+                  <pb n="10" facs="tcp:56493:8"/>I'le tell you what, my man's turn'd Proteſtant:</l>
+               <l>The Devil 'mongſt us then needs not fear to want;</l>
+               <l>But why ſhould Impudence impoſe on th' Nation,</l>
+               <l>A thing as monſtrous as Tranſubſtantiation.</l>
+               <l>Well time may be when he may plot no thing,</l>
+               <l>But how he decently may take his ſwing:</l>
+               <l>
+                  <hi>Ketch</hi> be predominant too in his Sphear,</l>
+               <l>And a poor Conjurer aſcendant there;</l>
+               <l>Although of late the <hi>Jeſuites</hi> taught my <hi>Madge</hi>
+               </l>
+               <l>A trick of falſe accuſing, 'twill not fadge.</l>
+               <l>Yet there's good hopes o'th' Pope; my ſelf can tell ye:</l>
+               <l>
+                  <note place="margin">A good beginning Sirs.</note>He has three Whores already by the Belly.</l>
+               <l>He got ſome hundreds yeſterday by's Tricks,</l>
+               <l>By ſale of Red-Caps and of Biſhopricks.</l>
+               <l>This having told in private, he did ſup</l>
+               <l>A glaſs of Hock: then ſtarts Chuck-farthing up,</l>
+               <l>With ſuch an awe as though he came to tell</l>
+               <l>That <hi>Jeſuites</hi> were breaking looſe from Hell,</l>
+               <l>Who having croſs'd himſelf with good Canary,</l>
+               <l>And yeaul'd you out ſome forty <hi>Ave Mary's,</hi>
+               </l>
+               <l>He doth enſtate his limbs in due decorum,</l>
+               <l>With order and with decency before 'um;</l>
+               <l>And with the more ſucceſs t'enforce his truth,</l>
+               <l>He does be-ceremony all his mouth;</l>
+               <l>And thus begins—</l>
+            </lg>
+            <lg>
+               <l>Our Lord God Pope ſalutes you, I proclaim</l>
+               <l>Unto you all a Jubilee in's Name:</l>
+               <l>He pardons all ſins, preſent, future, paſt.</l>
+               <l>
+                  <hi>Well now go home and ſin moſt deviliſh faſt;</hi>
+               </l>
+               <l>Ye are now as clean from ſin as ever piſt,</l>
+               <l>If you believe the Devil and a Prieſt.</l>
+               <l>If <hi>Loyal</hi>'s Blacks be here, or elſe heads ſhorn,</l>
+               <l>They are <hi>as innocent as the Child unborn<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>
+                  <pb n="11" facs="tcp:56493:8"/>Let them goe one in Treaſon; and they will</l>
+               <l>Be as <hi>innocent as Children unborn</hi> ſtill.</l>
+               <l>I ſay again, things, perſons, pardon'd all,</l>
+               <l>From th' Triple Crown unto the Coblers ſtall;</l>
+               <l>From th' golden Scepter to the Oaken Club,</l>
+               <l>But pardon him if he excepts the <hi>Tub.</hi>
+               </l>
+               <l>Good reaſon for't: the Tub muſt blab, though he</l>
+               <l>Has took the Sacraments of ſecreſie.</l>
+               <l>The meal, that was found in it ſhall firſt burn,</l>
+               <l>E're we unto a breaden God it turn.</l>
+               <l>Well, I have done, go get you home, for now</l>
+               <l>You're pardon'd all: odsfiſh; I can't tell how.</l>
+               <l>Here ended he his ſpeech, and so I wou'd:</l>
+               <l>But that there's a neceſſity I ſhou'd;</l>
+               <l>Since I told the Knight Errants, what, and who.</l>
+               <l>I ſhould declare to you, what their Squires were too.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The ſe<g ref="char:EOLhyphen"/>cond Ba<g ref="char:EOLhyphen"/>byloniſh Legion.</note>Next to theſe <hi>Quixots</hi> in a medley brave,</l>
+               <l>There march'd a flock of <hi>Sancho</hi>'s grave, grave, grave.</l>
+               <l>And yet 'tis ſtrange they march'd, their youthly ſins</l>
+               <l>By Pox and Ulcers had eat all their ſhins.</l>
+               <l>They ſpoke ſententious ſayings, but alas,</l>
+               <l>Like <hi>Sancho</hi> thundering riddles to his Aſs.</l>
+               <l>And further to improve my Metaphors,</l>
+               <l>Such long-ear'd Aſſes were their Auditors.</l>
+               <l>With ears ſo long as a good chine of beef;</l>
+               <l>But yet not half ſo long as their belief.</l>
+               <l>If to be narrow-mouth'd their faith ſhould hap;</l>
+               <l>As not to gulp and ſwallow at a clap</l>
+               <l>All th' monſtrous balderdaſh they would impoſe;</l>
+               <l>Though they thruſt down the Devil ſhoes and hoſe,</l>
+               <l>They'l thump it with obedience into them</l>
+               <l>Worſe than that <hi>Baalams</hi> Aſs was thump'd by him.</l>
+               <l>
+                  <pb n="12" facs="tcp:56493:9"/>This 'lone could prove the ſtory of <hi>Baalam</hi> true;</l>
+               <l>Since he was ſuch an exact Type of you,</l>
+               <l>Falſe conjuring Prophets, all whoſe life indites,</l>
+               <l>And chriſtens you at once falſe <hi>Baalamites:</hi>
+               </l>
+               <l>For you then, ſcarlet ſinners, thus I wiſh.</l>
+               <l>As your <hi>lives are,</hi> ſo be <hi>your end like his.</hi>
+               </l>
+               <l>But little more their order to define;</l>
+               <l>Before them went a Banner and Enſigns,</l>
+               <l>The lively emblems of their bloody minds.</l>
+               <l>Luſt, Murther, Rapine, Treaſon they diſplaid,</l>
+               <l>That lately were <hi>four Cardinal vertues</hi> made.</l>
+               <l>Upon their heads red Caps, yet not ſo red</l>
+               <l>As was the poiſon brewing in their head.</l>
+               <l>Their Fiery coloured garments do declare</l>
+               <l>What kind of dreadfull fire-brands they are:</l>
+               <l>Which were dy'd deep (were it well underſtood)</l>
+               <l>In <hi>Albingenſian</hi> and <hi>Waldenſian</hi> blood.</l>
+               <l>Then came a voice, and askt me what I ſaw?</l>
+               <l>Rough Satyrs made of <hi>Sampſons</hi> Aſſes Jaw;</l>
+               <l>
+                  <hi>Diana</hi>'s clowniſh crew transform'd to Frogs,</l>
+               <l>A devout litter-full of <hi>Tobi</hi>'s Dogs.</l>
+               <l>Or <hi>Cadmus</hi> monſtrous Army, that had grown</l>
+               <l>Out of the Serpents teeth that he had ſown:</l>
+               <l>And if through one anothers hearts, ('twere well,)</l>
+               <l>They would like them eat down their way to Hell.</l>
+               <l>Take them at ſober times within their dores;</l>
+               <l>They're the beſt company at Wine and Whores.</l>
+               <l>It'h <hi>Synods</hi> like ill planets in conjunction,</l>
+               <l>They brood o're miſchief, and they teem deſtruction.</l>
+               <l>There they're a flock of Aſps together hurl'd,</l>
+               <l>A Conclave of diſeaſes to the World.</l>
+               <l>Great's their Devotion; for they daily pray,</l>
+               <l>The Devil would take the preſent Pope away.</l>
+               <l>
+                  <pb n="13" facs="tcp:56493:9"/>And if he does not haſten, he's a whelp,</l>
+               <l>They'l try to pack him off without his help.</l>
+               <l>And that my men can can do with deal of eaſe,</l>
+               <l>(They can apply their poyſons as they pleaſe.)</l>
+               <l>For well they know the fate o'th' Papal Chair.</l>
+               <l>The vileſt rog'ries get the ſtart up there;</l>
+               <l>The greateſt Villain's the moſt qualifi'd,</l>
+               <l>And he who in innocent blood is deepeſt di'd:</l>
+               <l>And each being conſcious to himſelf of this,</l>
+               <l>How great a villain and a Rogue he is,</l>
+               <l>And how vers'd in abominable knacks,</l>
+               <l>Has a ſtrong Faith he may <hi>come in for ſnacks.</hi>
+               </l>
+               <l>And hence they ſtrive t'excel each other in</l>
+               <l>All acts unparrallel'd of Scarlet ſin.</l>
+               <l>They urge their ſinfull nature to a head,</l>
+               <l>Would break down its <hi>Non ultra</hi> if they cou'd.</l>
+               <l>Sins hitherto untrodden paths they try,</l>
+               <l>And Study methods new of Villany.</l>
+               <l>On ſuch prodigious wickedneſs they ruſh,</l>
+               <l>Would ſtartle Nature and make Hell to bluſh.</l>
+               <l>But when ones Vice has to that pitch encreaſt,</l>
+               <l>As that it ſingles him out from the reſt,</l>
+               <l>Makes him like <hi>Saul,</hi> a taller by the head,</l>
+               <l>And th' fitteſt man by whom they muſt be led;</l>
+               <l>Strange! with what ſlaviſh awe they him adore,</l>
+               <l>Whom they did ſink and damn the night before?</l>
+               <l>Who whilom was a Rogue, a Block or ſo,</l>
+               <l>Is now his Holineſs from Top to Toe.</l>
+               <l>And now with acclamations they compleat</l>
+               <l>His happineſs, and hurl him to his ſeat;</l>
+               <l>As a Bum-bee hurl'd by a ſtorm to's hive.</l>
+               <l>
+                  <hi>Needs muſt the Swine go when the Devils drive<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>
+                  <pb n="14" facs="tcp:56493:10"/>But one thing more: they are ſo cunning grown;</l>
+               <l>They will not be impos'd by t'other Pope <hi>Joan,</hi>
+               </l>
+               <l>They narrowly ſearch firſt, if they be men;</l>
+               <l>Would we would ſearch ſo well their plots and them.</l>
+               <l>One to th'infallible buttocks laying his face,</l>
+               <l>Doth loudly yeaul out, <hi>Dominus eſt Mas.</hi>
+               </l>
+               <l>Which ſometimes well without any M. may paſs.</l>
+               <l>As in the caſe of good Pope <hi>Celeſtine,</hi>
+               </l>
+               <l>Whom a ſly knave perſwaded to reſign</l>
+               <l>His ſeat to him, he thought a voice Divine:</l>
+               <l>Or elſe a helliſh ſpoke to 'um through a reed</l>
+               <l>In <hi>Boniface</hi>'s: ſo it did indeed.</l>
+               <l>But having brought my Card'nal hitherto,</l>
+               <l>As far as Hell and ſin and miſchief too</l>
+               <l>Can him advance; to th' Temples pinnacle,</l>
+               <l>Whence he may <hi>with a vengeance</hi> have a fall;</l>
+               <l>Here I will leave hint and no more will mind him;</l>
+               <l>And here the Devil will be ſure to find him.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The third Babyloniſh Legion.</note>There next appear'd the hodge podge <hi>Algernoons.</hi>
+               </l>
+               <l>A Linſey woolſey tribe of Church dragoons;</l>
+               <l>A <hi>Joſeph</hi>'s rainbow Coat, chiefly herein,</l>
+               <l>That blood and ſlaughter it is deep dipt in.</l>
+               <l>A Club encorporated to Inform,</l>
+               <l>That Hell's great Architect is multiform.</l>
+               <l>There's no ſuch Crocodiles by <hi>Nilus</hi> bred,</l>
+               <l>Each carries bowling Greens upon his head<g ref="char:punc">▪</g>
+               </l>
+               <l>That outwardly thus far do heaven outdare,</l>
+               <l>They ſhew it not nor care for it a hair.</l>
+               <l>They with their Trait'rous Crowns do ſhave their ſin,</l>
+               <l>But that the latter may grow faſt agin.</l>
+               <l>If Cuckold makers alſo had the horn,</l>
+               <l>Theſe Knaves would never venture to be ſhorn.</l>
+               <l>
+                  <pb n="15" facs="tcp:56493:10"/>But would you know their Names? —</l>
+               <l>'Tis kin to Fires, and it rithmes to Liars,</l>
+               <l>
+                  <hi>There's reaſon too as well as rithme</hi> for Fryars.</l>
+               <l>And ſometimes for the ſake of brevity,</l>
+               <l>'Twill do no harm to call them Impious Fry.</l>
+               <l>Their work is various as their Names and cloaths;</l>
+               <l>Some ſtudy wayes to break all Solemn Oaths;</l>
+               <l>And be they ne're ſo ſacred, ne're ſo ſtrong,</l>
+               <l>Equivocation can untwiſt the thong.</l>
+               <l>Some tie their loved Legends tail by tail,</l>
+               <l>And yet they ravel into thrums for all.</l>
+               <l>And others preach, that is, they ſcold and rail.</l>
+               <l>Treaſon or Murther is the uſual Text,</l>
+               <l>Beloved you may gueſs what follows next.</l>
+               <l>Rebellion, Faction, are the Doctrinal parts.</l>
+               <l>The Uſes Swords and Daggers in our hearts.</l>
+               <l>But if there be ſweet females, 'tis thought meet</l>
+               <l>To leave one uſe t' apply under a ſheet.</l>
+               <l>Others there are that ſeem for to be poor:</l>
+               <l>Religious mumpers thoſe from dore to dore.</l>
+               <l>They beg good meet, good wine, and whereſoe're</l>
+               <l>Good Women are, they beg nights lodgings there.</l>
+               <l>And to reward their Landlords theſe good Dady's</l>
+               <l>Get them a ſtore of bleſſings and of Babys.</l>
+               <l>Others do lurk in Covents, and do plot</l>
+               <l>To make a Holy Mad-man of a Sot,</l>
+               <l>And <hi>Jetzeriſe</hi> there ſeveral <hi>Bedlam</hi> tricks</l>
+               <l>To ſtorm the Faith of ſtubborn Hereticks.</l>
+               <l>And moſt of theſe (that let me not forget,)</l>
+               <l>Heark to the Curtain ſins of <hi>Peg</hi> and <hi>Bett.</hi>
+               </l>
+               <l>He ſimpers up his mouth and whiſpers <hi>Beſs,</hi>
+               </l>
+               <l>'Tis ſhrieving time, my Girle, come and confeſs.</l>
+               <l>Then having throughly pumpt the ſimple Jade,</l>
+               <l>When? and with whom? and was ſhe hot afraid?</l>
+               <l>
+                  <pb n="16" facs="tcp:56493:11"/>On good advice then ſhe withdraws with him,</l>
+               <l>And there for penance acts it o're agin.</l>
+               <l>But 'tis in vain to tell you all their work,</l>
+               <l>'Tis greater task than taming the great <hi>Turk.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The fourth Babyloniſh Legion, being a Troop of <hi>Amazons.</hi>
+                  </note>O'th ſame bead-ſtring with Fryar hang'd a Nun,</l>
+               <l>What would not you have <hi>Tib</hi> to follow <hi>Tom?</hi>
+               </l>
+               <l>A female's the grand Engine of a gull,</l>
+               <l>Who e're ſaw Tinker yet without his Trull?</l>
+               <l>Theſe are the crew, whereby the Devil once more</l>
+               <l>Would cheat and damn the world as heretofore.</l>
+               <l>Theſe are the <hi>Syren</hi> Cozbites: yes, and theſe,</l>
+               <l>Are they that th' number of the Church encreaſe.</l>
+               <l>The mother Church e'rewhile did barren grow,</l>
+               <l>And muſt have children from her daughters now.</l>
+               <l>And ſuch they are that without din or ſtir</l>
+               <l>May truely cry, My <hi>father Confeſſor.</hi>
+               </l>
+               <l>So nigh the Spirits power they come, they may</l>
+               <l>For <hi>Abba</hi> Father, Abbot father ſay.</l>
+               <l>But I digreſſe from my kind loving pack,</l>
+               <l>Who are more us'd to lie upon the back,</l>
+               <l>Than they 'r to count their beads; although they may</l>
+               <l>Moſt generally tell them twice a day.</l>
+               <l>Poor <hi>Egypt's</hi> land had ten plagues; we have more,</l>
+               <l>The Popes and Cardinals are the ſad plague-ſore,</l>
+               <l>The Fryars the Locuſt ſwarm the land o're ſpreads,</l>
+               <l>And theſe the Frogs that creep into mens beds;</l>
+               <l>Vile Jills in grain;—but hold, although the traſh</l>
+               <l>Deſerves my rugged Satyrs foreſt laſh,</l>
+               <l>The Furies whips of Steel, that cut moſt ſore;</l>
+               <l>And th' angry Muſes <hi>Bridewell,</hi> far, far more,</l>
+               <l>Than the worſt Bawds the <hi>Bridewell</hi> of the City:</l>
+               <l>But yet I'le ſpare 'um ſomewhat now for pity.</l>
+               <l>
+                  <pb n="17" facs="tcp:56493:11"/>I will not pill the wretches to the bone;</l>
+               <l>I'le be more kind and leave the Devil his own.</l>
+               <l>My modeſt pen won't ſtrip them of their ſmocks,</l>
+               <l>And Friends I would not choke you with a P—.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The fifth and moſt curſed Ba<g ref="char:EOLhyphen"/>biloniſh Legion.</note>Beſides I'me put to it to find out the next,</l>
+               <l>With them their own dear Lord is ſo perplext</l>
+               <l>To ſearch the Skudles, they are not ſuch Fools</l>
+               <l>But they have forty thouſand skulking holes.</l>
+               <l>Some or the Hocuſſes had ſhifted heads;</l>
+               <l>Some cloaths; ſome had crept into Ladies beds.</l>
+               <l>Some kennel'd in their couches and their cloſets,</l>
+               <l>
+                  <note place="margin">I com<g ref="char:EOLhyphen"/>mend their wit to be ſo kill'd.</note>And there were ſlain with Marmalets and ſack poſſets.</l>
+               <l>Some lurk'd in Madam's coats, ſome were ſo wiſe</l>
+               <l>As ſafe to lodge themſelves between their thighs.</l>
+               <l>They may like beaſts be traced out by th' ſcent;</l>
+               <l>
+                  <note place="margin">Then they were in their ſtu<g ref="char:EOLhyphen"/>dies.</note>Palm oil will make a Purſevant relent;</l>
+               <l>But not Sir <hi>William;</hi> as for him perchance</l>
+               <l>He never ſaw the fine <hi>Cajoles</hi> of <hi>France;</hi>
+               </l>
+               <l>He loſt his ſmell or elſe his complaiſance.</l>
+               <l>But honeſt Officers leave off your ſearch,</l>
+               <l>Several of them are got within our Church;</l>
+               <l>Your ſtaves nor warrants durſt come there t'offend 'um</l>
+               <l>They have our mask and garb for to defend 'um.</l>
+               <l>But there inſtead of preaching they do prate,</l>
+               <l>And turn the Pulpit to a <hi>Billinſgate,</hi>
+               </l>
+               <l>Whence the Flambeaus ſet fire to Church and State.</l>
+               <l>And if no more at leaſt they'l do theſe wrongs,</l>
+               <l>To carry Trait'rous fire-balls on their tongues.</l>
+               <l>Theſe are then eloquent, when they can preach,</l>
+               <l>What may augment our heats and wide our breach.</l>
+               <l>They healing ſalves to fretting poiſon turn,</l>
+               <l>And nurſe the flames, which our own bowels burn:</l>
+               <l>
+                  <pb n="18" facs="tcp:56493:12"/>
+                  <note place="margin">We be<g ref="char:EOLhyphen"/>ſeech thee to hear us, good Lord.</note>They'd be well ſerv'd if made a ſacrifice</l>
+               <l>To <hi>England's</hi> ſafety and the Churche's peace.</l>
+               <l>And as to theſe I'le Lettany it thus;</l>
+               <l>From ſuch, we pray, good Lord deliver us.</l>
+               <l>But ſhall I tell you what old <hi>Nickum</hi> did?</l>
+               <l>He drag'd out three by th' collar, that had hid</l>
+               <l>Themſelves in Quakers meetings, and about</l>
+               <l>He look'd for ſix more of the loving rout.</l>
+               <l>There ſtood the Cobler <hi>Will</hi> as good as piſt,</l>
+               <l>And <hi>Tom</hi> the Tinker with his greaſie fiſt.</l>
+               <l>There Dry-throat <hi>Criſpin</hi> with his wheezing Noſe,</l>
+               <l>That for good Ale and Girls had pawn'd his Shooes.</l>
+               <l>Next to him Drugſter with his Ratsbane Cheſt,</l>
+               <l>Poyſon he knows ſuits his Religion beſt.</l>
+               <l>And next <hi>Tom-fool</hi> with all his Merry Tricks,</l>
+               <l>And a <hi>frock'd Porter</hi> too of <hi>Sixty ſix:</hi>
+               </l>
+               <l>And all this while poor Devil ſearch'd up and down,</l>
+               <l>And never thought theſe Lads were all his nown;</l>
+               <l>Although there was with him the Pope his Son</l>
+               <l>With his <hi>infallible</hi> Peep-glaſſes on.</l>
+               <l>Some of the Rogues with flippant Wits and Jeſts</l>
+               <l>Had opened Monarch's Cabinets and their cheſts,</l>
+               <l>And ſome had crept (O grief inſufferable)</l>
+               <l>Unto their Cloſets and their Council Table.</l>
+               <l>Poor <hi>Spain</hi> and <hi>France</hi> have felt theſe Vultures keen,</l>
+               <l>Nor did the old game die with <hi>Mazareen.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And Father <hi>Nitard</hi> was not Grandee alone,</l>
+               <l>There's more <hi>La Cheſe's</hi> in the World than one.</l>
+               <l>Theſe ſhroud themſelves under Employs of State</l>
+               <l>With ſwelling names to bug-bear off their Fate.</l>
+               <l>They cunningly intrude to Princes hearts,</l>
+               <l>Dive to their ſecrets; and thence act their parts;</l>
+               <l>
+                  <pb n="19" facs="tcp:56493:12"/>
+                  <note place="margin">The more is the pity.</note>And twiſting themſelves in their Policies,</l>
+               <l>They rule both them and Kingdoms as they pleaſe.</l>
+               <l>They ſeem the State's great <hi>Atlaſſes,</hi> but th' Imps</l>
+               <l>Are the true Kings, when Kings are but their pimps.</l>
+               <l>Theſe are the Catholick hinges; and thereon</l>
+               <l>The Popiſh World for many years has run.</l>
+               <l>The Rulers they do ſerve muſt mind their Griſt,</l>
+               <l>And rule and conquer but as they do liſt.</l>
+               <l>Sometimes <hi>Spain</hi>'s Intereſt they will ſtrive t' advance,</l>
+               <l>Then, when they pleaſe the Intereſt of <hi>France.</hi>
+               </l>
+               <l>The wretches in their plots 'gainſt us would be</l>
+               <l>Too ſly for infinite Sagacity:</l>
+               <l>Would ſtem the ſtrong tide of Omnipotence,</l>
+               <l>And weary out the care of Providence.</l>
+               <l>Elſewhere if Providence thwarts their grand deſign,</l>
+               <l>Where they can't help they'l crouch and will reſign.</l>
+               <l>That's their white boy that wears the longeſt Sword.</l>
+               <l>
+                  <hi>The Flies ſtill flock unto the fulleſt board.</hi>
+               </l>
+               <l>And all a King doth by his Conqueſts get,</l>
+               <l>He toils himſelf to make theſe Vipers great.</l>
+               <l>Theſe conſtant Circumſtances they are in,</l>
+               <l>Whoever loſes they'l be ſure to win.</l>
+               <l>'Tis Kings that are their ſtalking Nags, whereby</l>
+               <l>They ſhoot at <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Monarchy:</hi>
+               </l>
+               <l>The guilded Tennis-balls with which they play</l>
+               <l>The bleſſed game, decreed by <hi>Loyola.</hi>
+               </l>
+               <l>Poor Popiſh Princes, would you once were wiſe!</l>
+               <l>I pity you: what can it not ſuffice</l>
+               <l>You truckle under an old Pope, but you</l>
+               <l>Muſt be the Trudges of ſuch Vermine too?</l>
+               <l>Your Realms ſtill influenc'd in peace and war</l>
+               <l>By ſuch malignant Meteors as theſe are;</l>
+               <l>
+                  <pb n="20" facs="tcp:56493:13"/>Prodigious Commets, that do'nt alone portend</l>
+               <l>But are themſelves the ruine of a Land.</l>
+               <l>Deſtruction's Conduit-pipes which doe ſpout forth</l>
+               <l>Its <hi>Stygian</hi> Venom all about the earth.</l>
+               <l>Hell's great Granadoes 'mongſt the ſimple rout,</l>
+               <l>Which deal ſtill fatal ruine all about.</l>
+               <l>The balefull Lungs of Univerſal death,</l>
+               <l>Which poiſon, kill and torture with their breath.</l>
+               <l>
+                  <hi>Egypts</hi> laſt plague reacted o're again;</l>
+               <l>But this the greateſt terror of the twain.</l>
+               <l>It ſeems to me Juſtice already hath</l>
+               <l>Pour'd down the <hi>ſeven Vials</hi> of his wrath;</l>
+               <l>But the world to that height of Vice being come</l>
+               <l>Repeats thoſe <hi>Items</hi> in a total ſumme.</l>
+               <l>And to ſhape's puniſhment to th' crimes of men;</l>
+               <l>Summes up in theſe his ſeven plagues o're agen.</l>
+               <l>About the world they like Infection fly,</l>
+               <l>As if the Devil had Ubiquity.</l>
+               <l>Twiſted like <hi>Sampſon's</hi> Foxes tail by tail,</l>
+               <l>They do by fires ſeen and unſeen prevail.</l>
+               <l>But this doth vex me moſt of all I know,</l>
+               <l>Their Impudence ſhould to that daring grow;</l>
+               <l>As to blaſpheme the name of <hi>Jeſus</hi> ſo.</l>
+               <l>
+                  <hi>Julian</hi> with's ſcornfull <hi>Galilean</hi> name,</l>
+               <l>Could not that ſacred title ſo prophane,</l>
+               <l>As theſe braſs-foreheaded blaſphemers do</l>
+               <l>By th'uſurpation of it to their crew.</l>
+            </lg>
+            <lg>
+               <l>Come, Muſe, let us new name them: that we will:</l>
+               <l>But firſt degrade them of this precious ſtile;</l>
+               <l>We muſt have paring knives of <hi>Lydian</hi> ſteel,</l>
+               <l>Glaſs will not ſerve to ſcrape off th' holy Oil.</l>
+               <l>
+                  <pb n="21" facs="tcp:56493:13"/>Suppoſe that done; I am ſtill at a loſs,</l>
+               <l>Though I give Spittle, Cream, and th' ſign o'th' Croſs.</l>
+               <l>Ne're truſt me it would overturn my brain</l>
+               <l>To find them out an apt befitting name.</l>
+               <l>Had theſe appeared then among the reſt,</l>
+               <l>In th' univerſall meeting of the beaſts,</l>
+               <l>When the whole world to its own Chriſt'ning came,</l>
+               <l>Each at it's new Lord's Font to have a name,</l>
+               <l>As Eagles, Kites and Lions, Lobs and Eels,</l>
+               <l>But yet I do not think that there were Bells;</l>
+               <l>
+                  <hi>Adam</hi> with his vaſt knowledge had been out</l>
+               <l>To find fit names for this unruly rout.</l>
+               <l>O <hi>Ariſtotle</hi> were't alive but now,</l>
+               <l>And would'ſt but theſe contemplate; I do know</l>
+               <l>Theſe tides unfathom'd would confound thee more,</l>
+               <l>Than all the Ebbings of the Sea before.</l>
+               <l>Thou d'ſt fling thy ſelf firſt to their Inquiſition;</l>
+               <l>Ere thou d'ſt be troubled with their comprehenſion.</l>
+               <l>Theſe are more uncontrolled than thoſe waves,</l>
+               <l>The Eaſtern Monarch tri'd to make his ſlaves.</l>
+               <l>
+                  <hi>Xerxes</hi> forbear to laſh; Kings cannot pleaſe</l>
+               <l>Nor tame ſuch tides impetuous as theſe.</l>
+               <l>But ſhall us now however go to try,</l>
+               <l>If we can dip them of another dye.</l>
+               <l>We'l ſee how well thoſe names will them become,</l>
+               <l>Which <hi>Ovid</hi> gave his Dogs; clear throat, Ahum:</l>
+               <l>
+                  <hi>Jouler,</hi> ha <hi>Jouler,</hi> ho! huskuſs; haloo;</l>
+               <l>Oh brave, my Miſchief-maſters, this will do.</l>
+               <l>
+                  <hi>Greedy-panch, Eat-all, Fierce,</hi> ſo ho! ſo ho!</l>
+               <l>
+                  <hi>Howler</hi> and <hi>Black-foot,</hi> my good Beagles, ſo!</l>
+               <l>The game is up in <hi>Brittain,</hi> follow, follow!</l>
+               <l>Cloſely purſue the ſcent, <hi>Rome, Rome,</hi> does hollow!</l>
+               <l>
+                  <pb n="22" facs="tcp:56493:14"/>Haloo, Haloo, my Dogs, ſpare no endeavour,</l>
+               <l>Now <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Monarchy</hi> or never</l>
+               <l>Nay, by the Maſs, (a mighty Word is that)</l>
+               <l>Th' alluſion ſtill befits them wond'rous pat;</l>
+               <l>Th' Analogy holds out in every piece.</l>
+               <l>
+                  <hi>Acteon</hi>'s Dogs were ravenous, ſo are theſe.</l>
+               <l>The Dogs of ſeveral ſizes, Lands and ſorts:</l>
+               <l>So theſe religious Erewigs of the Courts.</l>
+               <l>
+                  <note place="margin">
+                     <hi>Cavette vo<g ref="char:EOLhyphen"/>bis Princi<g ref="char:EOLhyphen"/>pes.</hi> The Motto of <hi>Ignatius Loyola</hi> the Father of the Order of the <hi>Je<g ref="char:EOLhyphen"/>ſuites.</hi>
+                  </note>
+                  <hi>But Princes look to't:</hi> dread the final caſt,</l>
+               <l>Theſe, like the Dogs will tear their Lord at laſt.</l>
+               <l>But have not I (the very truth to tell;)</l>
+               <l>Think you beſir'd my Puppies pretty well?</l>
+               <l>But ſo far forth as to their Names; but then</l>
+               <l>For their Deſcription I am off of them;</l>
+               <l>I'le keep my ſelf ſo, whil'ſt that I am well.</l>
+               <l>What would you have me rake to th' depth of Hell?</l>
+               <l>But here I leave them; I muſt go and view</l>
+               <l>What kind of Deſert is our Tower now.</l>
+               <l>
+                  <note place="margin">The ſixth Babyloniſh Legion.</note>'Tis ſome Inchanted Caſtle ſure become.</l>
+               <l>There the five Champions be of <hi>Chriſtendome.</hi>
+               </l>
+               <l>Theſe are the Heroes, that our cauſe ſo brag on;</l>
+               <l>Knight errants to ſubdue that peſtilent Dragon;</l>
+               <l>That Northern Hereſie that domineers,</l>
+               <l>And has done ſo here for theſe many years.</l>
+               <l>Diſtreſſed <hi>Babilon's</hi> Madams to ſet free,</l>
+               <l>They know the rules well of Knight Errantry.</l>
+               <l>Sure they can't chuſe, who did ſo often con</l>
+               <l>
+                  <hi>Don Quixot's</hi> Chapters and the <hi>Alcoran.</hi>
+               </l>
+               <l>St. <hi>George</hi> for <hi>England</hi> friends: but where is he?</l>
+               <l>On a Sign-poſt in <hi>Southwark;</hi> can't you ſee</l>
+               <l>That maſſie holy Heroe made of paint;</l>
+               <l>And that's enough to make a Romiſh Saint.</l>
+               <l>
+                  <pb n="23" facs="tcp:56493:14"/>Well, they ſhall be Saint <hi>Georges</hi> all, I vow,</l>
+               <l>Provided that they be but poſted ſo;</l>
+               <l>And if they hang up but for Signs a while</l>
+               <l>Upon that Poſt beyond Saint <hi>Giles</hi> a mile;</l>
+               <l>Such Signs to this Land would portend no loſs,</l>
+               <l>'Tis better ſigning than the ſign o'th' Croſs.</l>
+               <l>Well, but for Engines and for Engineers,</l>
+               <l>And decent helps for our reforming Peers.</l>
+               <l>The Labourers but few, the work is great:</l>
+               <l>But there's more <hi>Gadbury's</hi> and <hi>Nevil's</hi> yet.</l>
+               <l>My good Reformers, ſure you cannot want,</l>
+               <l>Convents and Baudy-houſes are not ſcant.</l>
+               <l>Matter not your Conſumption by the houſe,</l>
+               <l>There are more Cath'lick Villains ſtill in ſouſe<g ref="char:punc">▪</g>
+               </l>
+               <l>Go on brisk with your Refomation care,</l>
+               <l>Lay the Foundation-ſtone too where you are.</l>
+               <l>Firſt for the Tigers make them Catholicks;</l>
+               <l>They be of uſe to worry Hereticks.</l>
+               <l>Or leave the Leopoards neither in the lurch;</l>
+               <l>But make them all Sons of the Mother-Church.</l>
+               <l>She'll nurſe then in her boſom, for ought I know</l>
+               <l>A better brood by far than ſhe does now.</l>
+               <l>Well, but who Names the babes? udſo: well thought,</l>
+               <l>Is Cream and Oil and Salt and Spittle brought?</l>
+               <l>And have ye not one Madam Sir <hi>Jean</hi> with ye,</l>
+               <l>To do this Popiſh Job of Charity?</l>
+               <l>As touching <hi>Godfathers</hi> they need not fear,</l>
+               <l>There are five pat ones of you ready there.</l>
+               <l>Well, what think you? methinks 't ſounds woundrous well</l>
+               <l>One be call'd <hi>Peters,</hi> t' other <hi>Arundell.</hi>
+               </l>
+               <l>Let th' fierceſt of 'um though be call'd King <hi>Lewis,</hi>
+               </l>
+               <l>The reſt be <hi>Staffords, Bellaſis</hi> and <hi>Powis.</hi>
+               </l>
+               <l>
+                  <pb n="24" facs="tcp:56493:15"/>So good, my Lords, you will come to improve</l>
+               <l>Priſon to th' beſt, by ſuch high acts of love.</l>
+               <l>Such glorious actions without doubt will be</l>
+               <l>A further <hi>Paradox 'gainſt liberty.</hi>
+               </l>
+               <l>But now, my Lords, to ſhew a reverence due</l>
+               <l>To ſuch illuſtrious Pers'nages as you;</l>
+               <l>I will withdraw, nor am I hither come</l>
+               <l>To be unto your Lordſhips troubleſome.</l>
+               <l>All tediouſneſs you hate, and matter not</l>
+               <l>A long debate, unleſs about the Plot.</l>
+               <l>Then now I'le let you 'lone, for I do find out</l>
+               <l>You ſhall be let ſee, though I prate my brain out.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The ſe<g ref="char:EOLhyphen"/>venth Ba<g ref="char:EOLhyphen"/>byloniſh Legion.</note>But here's a troop; wherein none can find blame,</l>
+               <l>For nothing is left of them but a name.</l>
+               <l>Save a few Quarters on the Gates o'th City,</l>
+               <l>And that's but <hi>Staley</hi>'s too; the more's the pity,</l>
+               <l>But they are names like quills of Porcupines;</l>
+               <l>And are as full as Scarlet as their ſins.</l>
+               <l>Here every Maſſacre is new bepainted,</l>
+               <l>And every horrid Traitor new beſainted.</l>
+               <l>
+                  <hi>Colemans</hi> St. <hi>Rope</hi> is cannoniz'd, my Dons,</l>
+               <l>To whom the Brotherhood pay their Oriſons;</l>
+               <l>And do their daily Vows and prayers make,</l>
+               <l>And partly I believe for intereſt ſake.</l>
+               <l>They know their due, and therefore for the nonce</l>
+               <l>Still pray the Hemp to pardon them for once.</l>
+               <l>Here is St. <hi>Rogue,</hi> St. <hi>Traytor</hi> and St. <hi>Thief,</hi>
+               </l>
+               <l>St. <hi>Whitebread</hi> and St. <hi>Coleman</hi> too the chief,</l>
+               <l>St. <hi>Callier,</hi> and St. Country <hi>Beſs,</hi> St. <hi>Bridget,</hi>
+               </l>
+               <l>St. <hi>Ben,</hi> St. <hi>Ralph,</hi> St. <hi>Bob,</hi> St. <hi>Ned,</hi> St. <hi>Nidget.</hi>
+               </l>
+               <l>St. <hi>Hoobediboody,</hi> and St. <hi>Mas,</hi> St <hi>Aſs,</hi>
+               </l>
+               <l>Good men and true all, and ſo let them paſs.</l>
+               <l>
+                  <pb n="25" facs="tcp:56493:15"/>
+                  <note place="margin">The eighth Babyloniſh Legion.</note>The next's a ſort of Beaſts, and to declare</l>
+               <l>The truth, I do not well know what they are.</l>
+               <l>But yet I think for all their Aſſes ears,</l>
+               <l>I ſafely may conclude them to be Bears.</l>
+               <l>My reaſon for't 's as plain as any proſe,</l>
+               <l>They are ſo <hi>damnably</hi> led by the noſe.</l>
+               <l>Implicite Boobies that ſtill dance along</l>
+               <l>Unto a ſly-boot Fryars profit-ſong.</l>
+               <l>
+                  <note place="margin">Brave Sons of Obedi<g ref="char:EOLhyphen"/>ence.</note>Whoſe love's ſo ſtrong; whoſe faith has ſuch energy,</l>
+               <l>They'l go to Hell t' accompany their Clergy.</l>
+               <l>I'le tell you what with them is to Believe;</l>
+               <l>
+                  <note place="margin">The defi<g ref="char:EOLhyphen"/>nition al<g ref="char:EOLhyphen"/>a-mode of the Catho<g ref="char:EOLhyphen"/>lick Faith.</note>To pin their Faith upon a Prieſts Lawn ſlieve.</l>
+               <l>And the good man that night to's whore does pawn</l>
+               <l>For a night's lodging both the Soul and Lawn;</l>
+               <l>And ſhe poor wretch pawns it again to <hi>Morgan,</hi>
+               </l>
+               <l>But <hi>Nick</hi> is ſtill the getter by the bargain.</l>
+               <l>Be you good Lads; believe what the Church ſaith,</l>
+               <l>Though curſed Nonſence, Verities of Faith.</l>
+               <l>Nay if ſhe ſay that Eggs are Pudding-pies,</l>
+               <l>You muſt, believ't in ſpight of mouth and eyes:</l>
+               <l>Be ſtupid blocks; as dull as any ſticks;</l>
+               <l>And that's the way to be good Catholicks.</l>
+               <l>But for to know the right hand from the left:</l>
+               <l>A Pudding-bag from a Confeſſor's ſhift:</l>
+               <l>Or to diſtinguiſh between Crabs and Eels;</l>
+               <l>If 'tis not Hereſie, 'tis on it's heels.</l>
+               <l>But I ſhall purge theſe beaſts with holy water;</l>
+               <l>And there's enough for them of din and clatter.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The ninth Babiloniſh Legion.</note>Th' next ſpecies was (if I may call them ſo,)</l>
+               <l>For truth they had not as much as a ſhow</l>
+               <l>Of a Religion; but did defy</l>
+               <l>The very notion of a Deity.</l>
+               <l>
+                  <pb n="26" facs="tcp:56493:16"/>That is their Conſciences they did controul,</l>
+               <l>But could not raze them quite out of their ſoul.</l>
+               <l>They all Religions equally deteſt;</l>
+               <l>Becauſe by th' worſt there is a God confeſt.</l>
+               <l>Not would they care for Popery a pin,</l>
+               <l>But as it gives moſt leave to live in ſin:</l>
+               <l>And ſince 'tis ſeen die worſt Identity</l>
+               <l>Is ſingled out the beſt to overthrow;</l>
+               <l>True Catholick Religion cannot be</l>
+               <l>So harm'd as by a by-religions blow;</l>
+               <l>They Devil-like (to give them all their due,)</l>
+               <l>Support a falſe one to ſuppreſs a true:</l>
+               <l>And ſince they cannot all Religions ſmother;</l>
+               <l>They are for Popery before any other.</l>
+               <l>Theſe are th' wide ſouls, that will be ſworn, forſworn,</l>
+               <l>Carry their Conſciences in Pockets torn;</l>
+               <l>Which Eſtridge-like digeſt the hardeſt ſtones,</l>
+               <l>Gulp down all Impoſitions, fleſh and bones.</l>
+               <l>Yes, and their Conſciences ſo ſtretched are</l>
+               <l>As full as wide as is from hence to <hi>Ware.</hi>
+               </l>
+               <l>Nay my men can wire-draw you very ſoon</l>
+               <l>The limber-ſtuff as far as hence to <hi>Rome.</hi>
+               </l>
+               <l>Through which the Pope, the <hi>Turk</hi> and all the reſt,</l>
+               <l>May march with all their Squadrons in a breaſt.</l>
+               <l>Theſe quaint, incarnate, and theſe viſible Devils</l>
+               <l>Do, do promote unſeen, unfelt, our Evils.</l>
+               <l>And into every cranny of the Town</l>
+               <l>The Romiſh Flies do skulk it up and down;</l>
+               <l>To ſee and hear and ope' their leathern Jaws;</l>
+               <l>To drop each where a good word for the cauſe,</l>
+               <l>If through one Proteſtant party the good Tool</l>
+               <l>Can ſet a ſhoulder to run down the whole.</l>
+               <l>
+                  <pb n="27" facs="tcp:56493:16"/>He did his due, then to his God away:</l>
+               <l>(I left an L out) to his Gold I'de ſay.</l>
+               <l>Wretched Utenſils, fit for nought elſe, ye ſots,</l>
+               <l>But to be made <hi>Belzebubs</hi> piſſing-pots.</l>
+               <l>Would I were Prophet now, and could preſage,</l>
+               <l>How th' Pope would pay you, who did ſo engage</l>
+               <l>With him in's work; when you the work ſurvive,</l>
+               <l>Be kick'd for uſeleſs Drones out of the hive:</l>
+               <l>May he, led by the dictates of his reaſon</l>
+               <l>Hang up the Traitors, though he hugs the Treaſon.</l>
+               <l>Once more would I could propheſie, vile Imps,</l>
+               <l>When you'd leave off to be the Devil's Pimps:</l>
+               <l>This to your comfort though I can foretell,</l>
+               <l>You'l be no <hi>Atheiſts,</hi> when you are in Hell.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The tenth and laſt Babiloniſh Legion. And here is a com<g ref="char:EOLhyphen"/>pleat Ro<g ref="char:EOLhyphen"/>man Ar<g ref="char:EOLhyphen"/>my for you.</note>But what thoſe Thin-gut Meagres I ſee there,</l>
+               <l>
+                  <hi>Egypts</hi> ſeven ſtarvling Kine bring up the rear,</l>
+               <l>'Tis well that theſe are made to back the reſt,</l>
+               <l>They are but baſe Back-biters at the beſt.</l>
+               <l>Theſe are Religions Rats, that gnaw and gnaw,</l>
+               <l>Expecting ſtill fat Boons drop in their Maw.</l>
+               <l>And though they are cramm'd full, yet better featur'd</l>
+               <l>They do not look, nor are they better natur'd.</l>
+               <l>They write and rail to feed, and turn their meat</l>
+               <l>When 'tis got down to banefull Aconite,</l>
+               <l>With which their Libels they beſtrow, I think</l>
+               <l>They uſe their own empoyſon'd gall for Ink;</l>
+               <l>They break their brains, their reſts and buttons too,</l>
+               <l>For an envenom'd Sacrcaſm or two.</l>
+               <l>They'l proſtrate fall t' adore the Devil a year,</l>
+               <l>If he'll ſupply them with a blackmouth'd Jear.</l>
+               <l>And yet oft-times though their work be ſo hard;</l>
+               <l>So pitifull and ſneaking's their reward.</l>
+               <l>
+                  <pb n="28" facs="tcp:56493:17"/>Er'e they ſtand out the Nibblers will and muſt</l>
+               <l>Peck at a Bean, and nibble at a cruſt.</l>
+               <l>Go wretched Snarls; voracious Varlets all,</l>
+               <l>Made of Arch-<hi>Pluto</hi>'s overflowing Gall.</l>
+               <l>Hells ſwarm of Crab-lice, ſordid hangers on;</l>
+               <l>To <hi>Lapland</hi> Demons, to your Puggs be gone.</l>
+               <l>Wander not <hi>Incubuſes</hi> in this ſphear;</l>
+               <l>Enough of <hi>Succubuſes</hi> for you there.</l>
+               <l>O may our God lay down at laſt his ire,</l>
+               <l>And then caſt you, his Rods, into the Fire!</l>
+               <l>May you Horſe-leeches that for our blood ſo thirſt,</l>
+               <l>Suck but our bad; but with your own be burſt!</l>
+               <l>But I have made a very Satyr bluſh,</l>
+               <l>To dwell ſo long upon ſuch Impudent Traſh:</l>
+               <l>But I for this will now retreat the faſter,</l>
+               <l>And leave you and your Gang to your own Maſter.</l>
+            </lg>
+            <lg>
+               <l>Good People I will tell and make you ſmile,</l>
+               <l>What the whole Flock was doing all the while.</l>
+               <l>Why truely there in order they had got</l>
+               <l>Kettles and Cauldrons, Purgatory's pot,</l>
+               <l>And Powdering Tubs, not the Meal-Tub I mean,</l>
+               <l>That's Excommunicated quite and clean.</l>
+               <l>They'd ſeveral Veſſels there which they did fill</l>
+               <l>With Helliſh and abominable ſwill.</l>
+               <l>A brackiſh liquor they ſtill poured in,</l>
+               <l>Which 'gainſt Doom's-day might pickle up their ſin.</l>
+               <l>
+                  <note place="margin">They were buſie at it.</note>What do they ſo, quoth I? A Neighbour ſaith,</l>
+               <l>So they fill up the meaſure of their wrath.</l>
+               <l>And truely whil'ſt I ſtood in the ſame place</l>
+               <l>The Veſſels began to be fill'd apace.</l>
+               <l>Modeſtly firſt they lav'd by Spoons and Shells;</l>
+               <l>Now they ope' flood gates, and let in whole wells<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <pb n="29" facs="tcp:56493:17"/>Buckets and Pails now were not big enough,</l>
+               <l>To pour in ſtill the horrid Stygian ſtuff.</l>
+               <l>
+                  <note place="margin">That dam<g ref="char:EOLhyphen"/>ned thirſt does al<g ref="char:EOLhyphen"/>wayes poſ<g ref="char:EOLhyphen"/>ſeſs the Leeches.</note>A little Royal blood they wanted more,</l>
+               <l>And few more Martyrs to compleat the ſcore.</l>
+               <l>But God avert! yet how, I cannot tell,</l>
+               <l>The liquor to the very brim did ſwell,</l>
+               <l>And oh! as ſoon as th' Veſſels did run or'e;</l>
+               <l>
+                  <note place="margin">'Tis time for it.</note>The whole World groan'd, and Nature gave a roar.</l>
+               <l>The Earth op'd her Jaws again and did devour</l>
+               <l>The whole Sheet in the minute of an hour.</l>
+               <l>Swifter than Stones are to their Center brought,</l>
+               <l>Swifter than <hi>Eurus</hi> or a morning thought,</l>
+               <l>Streight from the dread <hi>hiatus</hi> forth there broke</l>
+               <l>In tumbling Mountains clouds of ſulphurous Smoke,</l>
+               <l>Which on its rolling ſooty wings then bore</l>
+               <l>The wretches parting ſhrieks from ſhore to ſhore;</l>
+               <l>Whereat the Popiſh Monarchs ſtood and gaz'd,</l>
+               <l>
+                  <note place="margin">And well they might.</note>Frighten'd, ſurpriz'd, confounded and amaz'd;</l>
+               <l>With aguiſh ſinews and with ſimiting thighs,</l>
+               <l>With trembling joynts, ſad hearts and watry eyes.</l>
+               <l>And finding the chain burſt, they thought did tye,</l>
+               <l>And knit together all their policy;</l>
+               <l>The ſeries of the Intertexture torn:</l>
+               <l>With violence; the remnant left forlorn:</l>
+               <l>The Romiſh politicks quite tumbled down,</l>
+               <l>Which faſly they ſuppos'd upheld their own.</l>
+               <l>They thought, ſince th' melting of the Papal Leads,</l>
+               <l>Their Crowns had no <hi>ſure footing</hi> on their heads,</l>
+               <l>Therefore with bleeding hearts they howl and wail.</l>
+               <l>Nor was this, wretched Princes, all their ail.</l>
+               <l>Long waiting Mercy now departs with groans,</l>
+               <l>And rouſed Juſtice ſhakes their tottering Thrones.</l>
+               <l>They had partak'd with <hi>Rome</hi> in ſin, and now</l>
+               <l>'Tis juſt they ſhould taſte of their Judgments too.</l>
+               <l>
+                  <pb n="30" facs="tcp:56493:18"/>Of his due honour they had robbed Chriſt,</l>
+               <l>And Hecatomb'd it to the Romiſh Beaſt.</l>
+               <l>Now's reckoning time for all that Sacriledge,</l>
+               <l>Vengeance has drunk about, and they muſt pledge.</l>
+               <l>The Merchants too, with all their gaudy ware,</l>
+               <l>That had helpt to keep up th' <hi>Italian</hi> Fair,</l>
+               <l>With all; their Gugaws, Hobby-horſes, Giggs,</l>
+               <l>
+                  <note place="margin">Come buy my Cere<g ref="char:EOLhyphen"/>monies, three for a penny.</note>Their pretty Trinkets, and their modiſh Jiggs,</l>
+               <l>Their Whiſtles, Babies, Puppets and their Bodkins,</l>
+               <l>Their <hi>Fucus, Seruke,</hi> and their Whim-wham Dodkins,</l>
+               <l>Their Fardingales, their Snipſnaps, and curl'd Wire</l>
+               <l>That went to make the Romiſh Whores attire.</l>
+               <l>Behold with anguiſh, terror, grief and rage,</l>
+               <l>Their only Cuſtomers kick'd off the Stage.</l>
+               <l>
+                  <note place="margin">Sure we ſhall have then ano<g ref="char:EOLhyphen"/>ther <hi>Mer<g ref="char:EOLhyphen"/>curius In<g ref="char:EOLhyphen"/>fernus,</hi> to know what Trading they have.</note>Therefore they pack up, and away they go</l>
+               <l>To ſee what Cuſtom was with them below:</l>
+               <l>Indeed there was no need of Ware nor them</l>
+               <l>For th' Proteſtant Religion Victreſſe then,</l>
+               <l>Sweet as the Roſe, pure as the new blown Morn,</l>
+               <l>Whom onely her own ſweetneſs does adorn;</l>
+               <l>Nor need ſhe more to captivate the eye,</l>
+               <l>Than her own native pure Simplicity.</l>
+               <l>But now I woke, ſtill muſing on my Theam,</l>
+               <l>Methoughts there was more in it than a Dream.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:56493:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
